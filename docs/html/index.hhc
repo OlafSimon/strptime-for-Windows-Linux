@@ -1,0 +1,232 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="strptime() for Windows (and Linux)"><param name="Local" value="index.html"><param name="ImageNumber" value="11"></OBJECT>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="strptime function for Windows (and Linux)"><param name="Local" value="md__r_e_a_d_m_e.html"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Intention"><param name="Local" value="md__r_e_a_d_m_e.html#autotoc_md1"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Usage of LibOb_strptime and LibOb_strftime"><param name="Local" value="md__r_e_a_d_m_e.html#autotoc_md2"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Installation"><param name="Local" value="md__r_e_a_d_m_e.html#autotoc_md3"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Further documentation"><param name="Local" value="md__r_e_a_d_m_e.html#autotoc_md4"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Inquiry"><param name="Local" value="md__r_e_a_d_m_e.html#autotoc_md5"><param name="ImageNumber" value="11"></OBJECT>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Topics"><param name="Local" value="topics.html"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="strptime"><param name="Local" value="group___lib_ob___time.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="_stTimeZone"><param name="Local" value="struct__st_time_zone.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="hours"><param name="Local" value="struct__st_time_zone.html#acad856a2a78326e8fe695be4e07f4edb"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="minutes"><param name="Local" value="struct__st_time_zone.html#a265d67cfbfd3bd109d3a11893800f3c7"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="_stZoneAbbreviation"><param name="Local" value="struct__st_zone_abbreviation.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="dst"><param name="Local" value="struct__st_zone_abbreviation.html#af7daff61183c4ed27a2917cf4aefc5c5"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="name"><param name="Local" value="struct__st_zone_abbreviation.html#a2c2318ee17a54c7f613e91241df45c95"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="zone"><param name="Local" value="struct__st_zone_abbreviation.html#aadbecf5c2ad5b966e5a539870cd958da"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="enLanguageSize"><param name="Local" value="group___lib_ob___time.html#gaa3257d68dfdf5241ceaa6f766d8b4340"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="INT16_INVALID"><param name="Local" value="group___lib_ob___time.html#gaf4ee2b20d81eaeddda623ec2167d003c"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="INT32_INVALID"><param name="Local" value="group___lib_ob___time.html#ga0c947f74abfc260e9efaf0563afadc45"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="INT64_INVALID"><param name="Local" value="group___lib_ob___time.html#ga13cb0169eb3c2ca65dfbda497583ebfd"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="INT8_INVALID"><param name="Local" value="group___lib_ob___time.html#ga17a6726d35d9d7771460a942a161d248"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="INT_INVALID"><param name="Local" value="group___lib_ob___time.html#ga77b31ed8f8a9458bfc879a5c094bd1ae"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="LibCpp_SECONDSPERHOUR"><param name="Local" value="group___lib_ob___time.html#ga8daf17a1153970f3780ee2b475b330a0"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="LibOb_isLeapYear"><param name="Local" value="group___lib_ob___time.html#ga561fb3ed6659e38459dfb3f664d78708"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="UINT16_INVALID"><param name="Local" value="group___lib_ob___time.html#ga67b44dcb7bf75769edc76eb6b9d1d13f"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="UINT32_INVALID"><param name="Local" value="group___lib_ob___time.html#ga324984b69bf5636ca8b3f0d2f018f649"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="UINT64_INVALID"><param name="Local" value="group___lib_ob___time.html#ga6e4c2b5d13057a3c37590f0f50e4e3a6"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="UINT8_INVALID"><param name="Local" value="group___lib_ob___time.html#ga0a552657c2de06e6349849f314358281"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="UINT_INVALID"><param name="Local" value="group___lib_ob___time.html#gad329bd63f160297a365e559d8f8e779b"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="ZONE_SIZE"><param name="Local" value="group___lib_ob___time.html#ga9038fefbff7f02c8a6e70fdae195cc83"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="stTimeZone"><param name="Local" value="group___lib_ob___time.html#ga437c1637c431ba3ee50715904de40401"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="stZoneAbbreviation"><param name="Local" value="group___lib_ob___time.html#ga76cb80120ff5ddcf59510e58aa64380b"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="tm_t"><param name="Local" value="group___lib_ob___time.html#ga2fea857c30e2c901566fcf45fac68ac5"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="enLanguage"><param name="Local" value="group___lib_ob___time.html#gadb860cdf4cc97650a89aba53c31d3895"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="enLanguage_en_US"><param name="Local" value="group___lib_ob___time.html#ggadb860cdf4cc97650a89aba53c31d3895a889ee035bbc52fbced8264d1d98de027"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="createZoneName"><param name="Local" value="group___lib_ob___time.html#gabe27a866e88597733f6669fd18d264a3"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="enLanguageIndex"><param name="Local" value="group___lib_ob___time.html#gad5fd9cce37e3fc18e30e8fa694100aae"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="findDay"><param name="Local" value="group___lib_ob___time.html#gaf0ed62cd1988d91588d598fee5330de6"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="findMonth"><param name="Local" value="group___lib_ob___time.html#ga01a8a9adf577caad832e414c1777a935"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="findZoneName"><param name="Local" value="group___lib_ob___time.html#gae0c03a47db1239dabdd367914dca7c6d"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="isnumber"><param name="Local" value="group___lib_ob___time.html#ga78659d30585b0f00eb4254bc07bcff2e"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="LibOb_checkStructTm"><param name="Local" value="group___lib_ob___time.html#ga18154ecf5ff7be5254ea2e4cffa75bfb"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="LibOb_dst"><param name="Local" value="group___lib_ob___time.html#ga2ced32bd6dc4995e30bab4689b5d0905"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="LibOb_localTimeZone"><param name="Local" value="group___lib_ob___time.html#ga6fe61f74ee7048e13e35e015ad22350e"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="LibOb_strftime"><param name="Local" value="group___lib_ob___time.html#gad1d8196cdd8e8803873607bea1b507ce"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="LibOb_strptime"><param name="Local" value="group___lib_ob___time.html#gaf506fec1800ee4a11adfe6ff9a12a446"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="LibOb_timeZone"><param name="Local" value="group___lib_ob___time.html#gab084d021e3da30bc9afd49b0ce2cd70e"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="scanCalendar"><param name="Local" value="group___lib_ob___time.html#ga1303a48a54cd30c268698702b4a11b91"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="scanDst"><param name="Local" value="group___lib_ob___time.html#ga86b1e67097e4cf329e90b8550b51a23f"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="scanExpression"><param name="Local" value="group___lib_ob___time.html#gad29b840ad96651563650e1007b28ae32"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="scanInt"><param name="Local" value="group___lib_ob___time.html#ga7e27cd708540bb61a6c1c3a389e0c4e2"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="scanTimeZone"><param name="Local" value="group___lib_ob___time.html#ga77a7f5293f73465ac6400d1abc9e4539"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="scanUint"><param name="Local" value="group___lib_ob___time.html#gaf61aa602432c47ff97fc21f241a02522"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="scanZone"><param name="Local" value="group___lib_ob___time.html#ga07837244524120718f023f13892979c8"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="scipDigits"><param name="Local" value="group___lib_ob___time.html#ga6b906adaf5ddf5675ffb792e50b4d3ed"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="scipNonLetters"><param name="Local" value="group___lib_ob___time.html#gacf9b19b2d8f883ee295458c295b489b1"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="scipSpace"><param name="Local" value="group___lib_ob___time.html#gaa76f2a55a9e6bdae71a3bef8c0555108"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="strchkfmt"><param name="Local" value="group___lib_ob___time.html#gaa21cfc94cc353c0f6ccafb672dc8a5df"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="strcpyfmt"><param name="Local" value="group___lib_ob___time.html#ga0ae312bf8fcb394cc4cc662f5d91ac80"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="strstartswith"><param name="Local" value="group___lib_ob___time.html#ga651d4b3a6e084ab0175daa5d6d24418b"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="dayNameAbbreviations"><param name="Local" value="group___lib_ob___time.html#gaf6787e57c87e9ae45d83970b8c9a0866"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="dayNames"><param name="Local" value="group___lib_ob___time.html#ga31aba305e4c144ddd05b8e75d1272640"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="DAYSOFMONTH"><param name="Local" value="group___lib_ob___time.html#gad0e6481f29ab86cba4df46a037ac2c4a"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="dstNames"><param name="Local" value="group___lib_ob___time.html#ga85e10f9c15a45f67bdd86db4eff9776e"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="LibOb_GLOBALLANGUAGE"><param name="Local" value="group___lib_ob___time.html#ga6b7fda713584c64348c1b1e21dd45c8d"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="LibOb_GLOBALLANGUAGE"><param name="Local" value="group___lib_ob___time.html#ga6b7fda713584c64348c1b1e21dd45c8d"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="monthNameAbbreviations"><param name="Local" value="group___lib_ob___time.html#ga36009c719c97e81ae7b02596bee9a9fa"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="monthNames"><param name="Local" value="group___lib_ob___time.html#gab5db8d4c3104d7b508ff4cd812f08386"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="stTimeZone_Ini"><param name="Local" value="group___lib_ob___time.html#ga979d3ef4cc96429010e5f5047fd8dd44"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="stTimeZone_Ini"><param name="Local" value="group___lib_ob___time.html#ga979d3ef4cc96429010e5f5047fd8dd44"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="stTimeZone_Invalid"><param name="Local" value="group___lib_ob___time.html#gac877011e3e8ecd93922b125f1b2370cd"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="stTimeZone_Invalid"><param name="Local" value="group___lib_ob___time.html#gac877011e3e8ecd93922b125f1b2370cd"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="stZoneAbbreviation_Ini"><param name="Local" value="group___lib_ob___time.html#ga38fe5acfc91f83aaac9c92ae2cc73fa6"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="stZoneAbbreviation_Ini"><param name="Local" value="group___lib_ob___time.html#ga38fe5acfc91f83aaac9c92ae2cc73fa6"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="stZoneAbbreviation_Invalid"><param name="Local" value="group___lib_ob___time.html#ga945f3e7663d36dde0f43443823cd73d3"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="stZoneAbbreviation_Invalid"><param name="Local" value="group___lib_ob___time.html#ga945f3e7663d36dde0f43443823cd73d3"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="tm_Ini"><param name="Local" value="group___lib_ob___time.html#gaa6af710a086ef4ef60590240099fb684"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="tm_Ini"><param name="Local" value="group___lib_ob___time.html#gaa6af710a086ef4ef60590240099fb684"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="tm_Invalid"><param name="Local" value="group___lib_ob___time.html#gaf78f3128d1348d4788d6352d0323db6c"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="tm_Invalid"><param name="Local" value="group___lib_ob___time.html#gaf78f3128d1348d4788d6352d0323db6c"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="unnamedZone"><param name="Local" value="group___lib_ob___time.html#ga013c533b9e833cf9c60697e44ce8bece"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="zones"><param name="Local" value="group___lib_ob___time.html#ga557bdfaa4865192b5484e6d54dac44a5"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Classes"><param name="Local" value="annotated.html"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class List"><param name="Local" value="annotated.html#top"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="_stTimeZone"><param name="Local" value="struct__st_time_zone.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="hours"><param name="Local" value="struct__st_time_zone.html#acad856a2a78326e8fe695be4e07f4edb"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="minutes"><param name="Local" value="struct__st_time_zone.html#a265d67cfbfd3bd109d3a11893800f3c7"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="_stZoneAbbreviation"><param name="Local" value="struct__st_zone_abbreviation.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="dst"><param name="Local" value="struct__st_zone_abbreviation.html#af7daff61183c4ed27a2917cf4aefc5c5"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="name"><param name="Local" value="struct__st_zone_abbreviation.html#a2c2318ee17a54c7f613e91241df45c95"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="zone"><param name="Local" value="struct__st_zone_abbreviation.html#aadbecf5c2ad5b966e5a539870cd958da"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class Index"><param name="Local" value="classes.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class Members"><param name="Local" value="functions.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="All"><param name="Local" value="functions.html#top"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Variables"><param name="Local" value="functions_vars.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Files"><param name="Local" value="files.html"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="File List"><param name="Local" value="files.html#top"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="src"><param name="Local" value="dir_68267d1309a1af8e8297ef4c3efbcdba.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LibOb_strptime.c"><param name="Local" value="_lib_ob__strptime_8c.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="enLanguageSize"><param name="Local" value="group___lib_ob___time.html#gaa3257d68dfdf5241ceaa6f766d8b4340"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="LibCpp_SECONDSPERHOUR"><param name="Local" value="group___lib_ob___time.html#ga8daf17a1153970f3780ee2b475b330a0"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ZONE_SIZE"><param name="Local" value="group___lib_ob___time.html#ga9038fefbff7f02c8a6e70fdae195cc83"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="createZoneName"><param name="Local" value="group___lib_ob___time.html#gabe27a866e88597733f6669fd18d264a3"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="enLanguageIndex"><param name="Local" value="group___lib_ob___time.html#gad5fd9cce37e3fc18e30e8fa694100aae"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="findDay"><param name="Local" value="group___lib_ob___time.html#gaf0ed62cd1988d91588d598fee5330de6"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="findMonth"><param name="Local" value="group___lib_ob___time.html#ga01a8a9adf577caad832e414c1777a935"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="findZoneName"><param name="Local" value="group___lib_ob___time.html#gae0c03a47db1239dabdd367914dca7c6d"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="isnumber"><param name="Local" value="group___lib_ob___time.html#ga78659d30585b0f00eb4254bc07bcff2e"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="LibOb_checkStructTm"><param name="Local" value="group___lib_ob___time.html#ga18154ecf5ff7be5254ea2e4cffa75bfb"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="LibOb_dst"><param name="Local" value="group___lib_ob___time.html#ga2ced32bd6dc4995e30bab4689b5d0905"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="LibOb_localTimeZone"><param name="Local" value="group___lib_ob___time.html#ga6fe61f74ee7048e13e35e015ad22350e"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="LibOb_strftime"><param name="Local" value="group___lib_ob___time.html#gad1d8196cdd8e8803873607bea1b507ce"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="LibOb_strptime"><param name="Local" value="group___lib_ob___time.html#gaf506fec1800ee4a11adfe6ff9a12a446"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="LibOb_timeZone"><param name="Local" value="group___lib_ob___time.html#gab084d021e3da30bc9afd49b0ce2cd70e"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="scanCalendar"><param name="Local" value="group___lib_ob___time.html#ga1303a48a54cd30c268698702b4a11b91"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="scanDst"><param name="Local" value="group___lib_ob___time.html#ga86b1e67097e4cf329e90b8550b51a23f"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="scanExpression"><param name="Local" value="group___lib_ob___time.html#gad29b840ad96651563650e1007b28ae32"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="scanInt"><param name="Local" value="group___lib_ob___time.html#ga7e27cd708540bb61a6c1c3a389e0c4e2"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="scanTimeZone"><param name="Local" value="group___lib_ob___time.html#ga77a7f5293f73465ac6400d1abc9e4539"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="scanUint"><param name="Local" value="group___lib_ob___time.html#gaf61aa602432c47ff97fc21f241a02522"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="scanZone"><param name="Local" value="group___lib_ob___time.html#ga07837244524120718f023f13892979c8"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="scipDigits"><param name="Local" value="group___lib_ob___time.html#ga6b906adaf5ddf5675ffb792e50b4d3ed"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="scipNonLetters"><param name="Local" value="group___lib_ob___time.html#gacf9b19b2d8f883ee295458c295b489b1"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="scipSpace"><param name="Local" value="group___lib_ob___time.html#gaa76f2a55a9e6bdae71a3bef8c0555108"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="strchkfmt"><param name="Local" value="group___lib_ob___time.html#gaa21cfc94cc353c0f6ccafb672dc8a5df"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="strcpyfmt"><param name="Local" value="group___lib_ob___time.html#ga0ae312bf8fcb394cc4cc662f5d91ac80"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="strstartswith"><param name="Local" value="group___lib_ob___time.html#ga651d4b3a6e084ab0175daa5d6d24418b"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="dayNameAbbreviations"><param name="Local" value="group___lib_ob___time.html#gaf6787e57c87e9ae45d83970b8c9a0866"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="dayNames"><param name="Local" value="group___lib_ob___time.html#ga31aba305e4c144ddd05b8e75d1272640"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="DAYSOFMONTH"><param name="Local" value="group___lib_ob___time.html#gad0e6481f29ab86cba4df46a037ac2c4a"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="dstNames"><param name="Local" value="group___lib_ob___time.html#ga85e10f9c15a45f67bdd86db4eff9776e"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="LibOb_GLOBALLANGUAGE"><param name="Local" value="group___lib_ob___time.html#ga6b7fda713584c64348c1b1e21dd45c8d"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="monthNameAbbreviations"><param name="Local" value="group___lib_ob___time.html#ga36009c719c97e81ae7b02596bee9a9fa"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="monthNames"><param name="Local" value="group___lib_ob___time.html#gab5db8d4c3104d7b508ff4cd812f08386"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="stTimeZone_Ini"><param name="Local" value="group___lib_ob___time.html#ga979d3ef4cc96429010e5f5047fd8dd44"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="stTimeZone_Invalid"><param name="Local" value="group___lib_ob___time.html#gac877011e3e8ecd93922b125f1b2370cd"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="stZoneAbbreviation_Ini"><param name="Local" value="group___lib_ob___time.html#ga38fe5acfc91f83aaac9c92ae2cc73fa6"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="stZoneAbbreviation_Invalid"><param name="Local" value="group___lib_ob___time.html#ga945f3e7663d36dde0f43443823cd73d3"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="tm_Ini"><param name="Local" value="group___lib_ob___time.html#gaa6af710a086ef4ef60590240099fb684"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="tm_Invalid"><param name="Local" value="group___lib_ob___time.html#gaf78f3128d1348d4788d6352d0323db6c"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="unnamedZone"><param name="Local" value="group___lib_ob___time.html#ga013c533b9e833cf9c60697e44ce8bece"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="zones"><param name="Local" value="group___lib_ob___time.html#ga557bdfaa4865192b5484e6d54dac44a5"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LibOb_strptime.h"><param name="Local" value="_lib_ob__strptime_8h.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="INT16_INVALID"><param name="Local" value="group___lib_ob___time.html#gaf4ee2b20d81eaeddda623ec2167d003c"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="INT32_INVALID"><param name="Local" value="group___lib_ob___time.html#ga0c947f74abfc260e9efaf0563afadc45"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="INT64_INVALID"><param name="Local" value="group___lib_ob___time.html#ga13cb0169eb3c2ca65dfbda497583ebfd"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="INT8_INVALID"><param name="Local" value="group___lib_ob___time.html#ga17a6726d35d9d7771460a942a161d248"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="INT_INVALID"><param name="Local" value="group___lib_ob___time.html#ga77b31ed8f8a9458bfc879a5c094bd1ae"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="LibOb_isLeapYear"><param name="Local" value="group___lib_ob___time.html#ga561fb3ed6659e38459dfb3f664d78708"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="UINT16_INVALID"><param name="Local" value="group___lib_ob___time.html#ga67b44dcb7bf75769edc76eb6b9d1d13f"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="UINT32_INVALID"><param name="Local" value="group___lib_ob___time.html#ga324984b69bf5636ca8b3f0d2f018f649"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="UINT64_INVALID"><param name="Local" value="group___lib_ob___time.html#ga6e4c2b5d13057a3c37590f0f50e4e3a6"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="UINT8_INVALID"><param name="Local" value="group___lib_ob___time.html#ga0a552657c2de06e6349849f314358281"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="UINT_INVALID"><param name="Local" value="group___lib_ob___time.html#gad329bd63f160297a365e559d8f8e779b"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="stTimeZone"><param name="Local" value="group___lib_ob___time.html#ga437c1637c431ba3ee50715904de40401"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="stZoneAbbreviation"><param name="Local" value="group___lib_ob___time.html#ga76cb80120ff5ddcf59510e58aa64380b"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="tm_t"><param name="Local" value="group___lib_ob___time.html#ga2fea857c30e2c901566fcf45fac68ac5"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="enLanguage"><param name="Local" value="group___lib_ob___time.html#gadb860cdf4cc97650a89aba53c31d3895"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="enLanguage_en_US"><param name="Local" value="group___lib_ob___time.html#ggadb860cdf4cc97650a89aba53c31d3895a889ee035bbc52fbced8264d1d98de027"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="isnumber"><param name="Local" value="group___lib_ob___time.html#ga78659d30585b0f00eb4254bc07bcff2e"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="LibOb_checkStructTm"><param name="Local" value="group___lib_ob___time.html#ga18154ecf5ff7be5254ea2e4cffa75bfb"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="LibOb_dst"><param name="Local" value="group___lib_ob___time.html#ga2ced32bd6dc4995e30bab4689b5d0905"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="LibOb_localTimeZone"><param name="Local" value="group___lib_ob___time.html#ga6fe61f74ee7048e13e35e015ad22350e"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="LibOb_strftime"><param name="Local" value="group___lib_ob___time.html#gad1d8196cdd8e8803873607bea1b507ce"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="LibOb_strptime"><param name="Local" value="group___lib_ob___time.html#gaf506fec1800ee4a11adfe6ff9a12a446"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="LibOb_timeZone"><param name="Local" value="group___lib_ob___time.html#gab084d021e3da30bc9afd49b0ce2cd70e"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="scanExpression"><param name="Local" value="group___lib_ob___time.html#gad29b840ad96651563650e1007b28ae32"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="scanInt"><param name="Local" value="group___lib_ob___time.html#ga7e27cd708540bb61a6c1c3a389e0c4e2"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="scanUint"><param name="Local" value="group___lib_ob___time.html#gaf61aa602432c47ff97fc21f241a02522"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="scipDigits"><param name="Local" value="group___lib_ob___time.html#ga6b906adaf5ddf5675ffb792e50b4d3ed"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="scipNonLetters"><param name="Local" value="group___lib_ob___time.html#gacf9b19b2d8f883ee295458c295b489b1"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="scipSpace"><param name="Local" value="group___lib_ob___time.html#gaa76f2a55a9e6bdae71a3bef8c0555108"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="LibOb_GLOBALLANGUAGE"><param name="Local" value="group___lib_ob___time.html#ga6b7fda713584c64348c1b1e21dd45c8d"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="stTimeZone_Ini"><param name="Local" value="group___lib_ob___time.html#ga979d3ef4cc96429010e5f5047fd8dd44"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="stTimeZone_Invalid"><param name="Local" value="group___lib_ob___time.html#gac877011e3e8ecd93922b125f1b2370cd"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="stZoneAbbreviation_Ini"><param name="Local" value="group___lib_ob___time.html#ga38fe5acfc91f83aaac9c92ae2cc73fa6"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="stZoneAbbreviation_Invalid"><param name="Local" value="group___lib_ob___time.html#ga945f3e7663d36dde0f43443823cd73d3"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="tm_Ini"><param name="Local" value="group___lib_ob___time.html#gaa6af710a086ef4ef60590240099fb684"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="tm_Invalid"><param name="Local" value="group___lib_ob___time.html#gaf78f3128d1348d4788d6352d0323db6c"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="File Members"><param name="Local" value="globals.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="All"><param name="Local" value="globals.html#top"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Functions"><param name="Local" value="globals_func.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Variables"><param name="Local" value="globals_vars.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Typedefs"><param name="Local" value="globals_type.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Enumerations"><param name="Local" value="globals_enum.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Enumerator"><param name="Local" value="globals_eval.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Macros"><param name="Local" value="globals_defs.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  </UL>
+</UL>
+</BODY>
+</HTML>

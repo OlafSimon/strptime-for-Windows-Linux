@@ -1,0 +1,25 @@
+/** \mainpage strptime() for Windows (and Linux)
+
+This manual introduces the portable function implementations of 'strptime' and 'strftime' provided by Olaf Simon at
+<a href="https://github.com/OlafSimon/strptime-for-Windows-Linux">github</a> especially to support time zone information.
+
+  - [Overview page](README.md)
+
+Mainly two functions are supplied.
+
+  - LibOb_strptime()
+  - LibOb_strftime()
+
+Further implemented functions, format specification and a time zone list can be found through the following topic:
+
+  - \ref LibOb_Time
+
+This library supplies ANSI C implementations of strptime (LibOb_strptime) usable for Windows and Linux as well as strftime (LibOb_strftime). Both methods
+are optimized to be able to handle time zone information, which even strptime under Linux does not deliver. Among
+other functions the local time zone can be obtained by\n
+LibOb_localTimeZone().
+
+\defgroup LibOb_Time strptime
+\brief Implementation of 'strptime' for windows (and Linux)
+The following describes the usage of the format string and gives some general Information.
+**/
